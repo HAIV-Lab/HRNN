@@ -1,5 +1,5 @@
 # HRNN
-基于骨架的动作识别中HRNN模型的实现
+基于骨架的动作识别中HRNN模型的实现(Implementation of the HRNN model for skeleton-based action recognition)
 
 说明：该模型为基于骨架的动作识别（Skeleton Based Action Recognition）中HRNN模型的实现。因为初学pytorch，若存在错误或者模型细节方面存在问题请提交变更申请或者联系1378513278@qq.com。
 
